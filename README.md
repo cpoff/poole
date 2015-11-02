@@ -100,7 +100,7 @@ To easily scale your site's typography and components, simply customize the base
 
 ## Development
 
-Poole has two branches, but only one is used for active development.
+While Poole has two branches, only one is used for active development.
 
 - `master` for development.  **All pull requests should be to submitted against `master`.**
 - `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
